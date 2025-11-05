@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @harrystamatoukos
-- 👀 I’m interested in Data Science, Artificial Intelligence, Machine Learning and Software Engineering
+- Currently founder at Pancake AI 
 
 
 <!---
